@@ -1,7 +1,5 @@
 # 5 Cheapest Minecraft Server Hosting Providers in Australia
 
-## Introduction: Summary of Minecraft Server Hosting Options in Australia
-
 This article provides a comprehensive overview of several Minecraft server hosting providers that specifically cater to the Australian market. We'll cover a range of options, from budget-friendly choices to high-performance solutions, highlighting their plans, pricing, features, and key benefits. The providers listed offer servers located in Australia (primarily Sydney) to ensure low latency and a smooth gaming experience for Australian players. We will rank them in terms of "best overall" (a blend of features, performance, and support) and "cheapest" (lowest starting price).
 
 ## 1. Apex Hosting
