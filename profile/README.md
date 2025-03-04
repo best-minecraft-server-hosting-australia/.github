@@ -4,7 +4,7 @@
 
 This article provides a comprehensive overview of several Minecraft server hosting providers that specifically cater to the Australian market. We'll cover a range of options, from budget-friendly choices to high-performance solutions, highlighting their plans, pricing, features, and key benefits. The providers listed offer servers located in Australia (primarily Sydney) to ensure low latency and a smooth gaming experience for Australian players. We will rank them in terms of "best overall" (a blend of features, performance, and support) and "cheapest" (lowest starting price).
 
-##1. Apex Hosting
+## 1. Apex Hosting
 
 Apex Hosting specializes in providing low-latency Minecraft server hosting with a focus on 24/7 support for Australian players. The company offers a server location in Sydney, which is crucial for minimizing latency and ensuring a smoother gaming experience for players in Australia and surrounding regions. Apex Hosting emphasizes dynamic pricing, which changes based on the game edition (Java or Bedrock), allocated RAM, currency, billing cycle, and promo codes. They sell Minecraft server hosting in Australia, with a strong emphasis on performance and customer support. For more information, visit their [pricing page](https://apexminecrafthosting.com/pricing/).
 
@@ -43,7 +43,7 @@ Apex Hosting offers a wide range of features tailored for Minecraft server hosti
 
 When choosing a plan, it's important to estimate the player count, consider the use of mods or plugins, and start with a smaller plan that can be upgraded later if needed. Bedrock Edition generally requires less RAM than Java Edition for the same number of players. Apex Hosting provides a [RAM calculator guide](https://apexminecrafthosting.com/how-much-ram-do-i-need-for-my-server/) to help estimate RAM needs. For the latest guides and tips, visit their [Minecraft knowledge base](https://apexminecrafthosting.com/knowledgebase/minecraft). Always ensure the currency is set to Australian Dollars (AUD) on the Apex Hosting website for accurate pricing. For more information and support, visit the Apex Hosting website and explore their community forums and social media channels.
 
-##2. Shockbyte
+## 2. Shockbyte
 
 Shockbyte is a leading server hosting provider that specializes in Minecraft server hosting for both Java and Bedrock Editions. Their core features include instant setup, support for all modpacks and plugins, DDoS protection, and a custom control panel with advanced features. Shockbyte offers a variety of plans tailored to different needs and budgets, with a strong emphasis on ease of use and quick setup. They provide Minecraft server hosting in Australia, with a starting price of $6.42 AUD per month. You can find more information on their website at [Shockbyte](https://shockbyte.com).
 
@@ -76,7 +76,7 @@ Shockbyte offers a comprehensive set of features designed to enhance the Minecra
 
 Shockbyte emphasizes ease of use and quick setup, making it an ideal choice for both beginners and experienced users. They provide strong support for mods and plugins, ensuring a seamless gaming experience. The company has recently redesigned their control panel to offer even more advanced features. Shockbyte also supports other games such as Palword, Terraria, Rust, ARK: Survival Evolved, Satisfactory, Project Zomboid, 7 Days to Die, and more. For additional information, you can visit their knowledgebase and support links. Shockbyte also offers gift cards. You can connect with Shockbyte on various social media platforms for updates and support.
 
-##3. Stipe.com.au
+## 3. Stipe.com.au
 
 STIPE is Australia's largest premium and fastest Minecraft server hosting provider, offering a range of features tailored for the Australian network. Based in Sydney, NSW, STIPE provides instant setup, beginner-friendly interfaces, and proven stability for Minecraft servers. They specialize in selling Minecraft server hosting in Australia, with a strong focus on performance and customer support.
 
@@ -117,7 +117,7 @@ STIPE offers a comprehensive set of features including instant server setup, beg
 
 STIPE provides Australian-based support with friendly technical staff available throughout the day and evening, offering assistance with installation, troubleshooting, and advice. They support a wide range of modpacks, including ATLauncher, Feed The Beast (FTB), CurseForge, Technic, Voidswrath, Bukkit/Spigot, Sponge, Forge/Fabric, Pixelmon, Vanilla, PaperMC, and PurPur. Users can also install their own custom modpacks. The servers are optimized for the Australian network, ensuring the fastest and lowest latency network times. STIPE offers discounts for longer payment durations and supports both Java and Bedrock Editions of Minecraft. For more information, you can visit their website
 
-##4. MCHostingPro
+## 4. MCHostingPro
 
 MCHostingPro is a prominent server hosting provider that offers a range of plans tailored for Minecraft enthusiasts in Australia. With a primary datacenter located in Sydney, MCHostingPro ensures low latency and optimal performance for Australian customers. Key features include instant server setup, support for various Minecraft versions and modpacks, a user-friendly custom control panel, and robust DDoS protection. The provider also offers a free 10-day trial plan called "Freeman" for testing their services. MCHostingPro sells Minecraft server hosting in Australia with a focus on performance, flexibility, and customer support.
 
@@ -145,7 +145,7 @@ MCHostingPro offers a comprehensive set of features to enhance the Minecraft ser
 
 When choosing a plan, consider the number of players, the complexity of mods or plugins, and the option to upgrade later if needed. The "Unmetered" storage is subject to a fair use policy, and excessive usage may result in limitations. Server performance depends on the chosen plan, location, number of players, and the complexity of mods/plugins used. Prices are displayed in USD and may be charged in local currency (AUD) at the current exchange rate. For more information and support, visit the MCHostingPro website and explore their community forums and social media channels.
 
-##5. Sparked Hosting
+## 5. Sparked Hosting
 
 Sparked Host is a prominent server hosting provider specializing in Minecraft server hosting, with a particular focus on the Australian market. Their core features include budget-friendly options, enterprise-grade hardware, and a highly configurable checkout process. Sparked Host utilizes Dual Intel Xeon E5-2680v4 CPUs, DDR4 2133MHz RAM, RAID 10 SSDs, and a 1Gbit network to ensure optimal performance. They offer a variety of plans tailored to different needs and budgets, making them a reliable choice for Minecraft server hosting in Australia. You can find more information on their website.
 
